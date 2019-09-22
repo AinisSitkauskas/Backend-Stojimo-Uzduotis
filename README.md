@@ -4,11 +4,11 @@ Aliko: Ainis Šitkauskas
 
  Nuorodos į puslapius: 
 
--[] http://www.minidienynas.vhost.lt/client.php  - Klientų registravimo puslapis (Level 1)
--[] http://www.minidienynas.vhost.lt/specialist.php  - Specialisto puslapis (Level 1)
--[] http://www.minidienynas.vhost.lt/timetable.php  - Švieslentė (Level 1)
--[] http://www.minidienynas.vhost.lt/client.php?clientCode=[unikali nuoroda]  - Kliento unikalus registracijos puslapis (veikia tik turint aktyvią registraciją) Level 2
--[] http://www.minidienynas.vhost.lt/client.php?action=statistic  - Specialistų statistikos puslapis (Level 3)
+-[ ] http://www.minidienynas.vhost.lt/client.php  - Klientų registravimo puslapis (Level 1)
+-[ ] http://www.minidienynas.vhost.lt/specialist.php  - Specialisto puslapis (Level 1)
+-[ ] http://www.minidienynas.vhost.lt/timetable.php  - Švieslentė (Level 1)
+-[ ] http://www.minidienynas.vhost.lt/client.php?clientCode=[unikali nuoroda]  - Kliento unikalus registracijos puslapis (veikia tik turint aktyvią registraciją) Level 2
+-[ ] http://www.minidienynas.vhost.lt/client.php?action=statistic  - Specialistų statistikos puslapis (Level 3)
 
 **Trumpai apie užduotį:**
 
